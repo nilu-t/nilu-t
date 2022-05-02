@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
 
-I'm currently a second year computer science student. Skilled in various programming languages including Java and Python. I'm interested in mobile developement and passionate about the technologies of the future.
+I'm currently a third year computer science student. Skilled in various programming languages including Java, C, Javascript and Python. I'm interested in software developement and passionate about the technologies of the future. Check out some of my projects !
