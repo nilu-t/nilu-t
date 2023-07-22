@@ -23,4 +23,4 @@ I'm currently a fourth year computer science student. Skilled in various program
 * [BudgetVision App](https://github.com/nilu-t/BudgetVision-App): BudgetVision is an android app which allows for creating an optimal daily budget, track user expenses, track other individuals expenses, create a spreadsheet of user expenses using google sign-in and convert currencies via asynchronous call to the Bank of Canada website.
 * [Game Tier](https://github.com/nilu-t/game-tier): Flask web application in which users can rate games from various popular gaming companies. This is synced with a discord bot.
 
-Fun Fact: My profile picture is a portrait drawn with one entire line using the travelling salesman algorithm! 
+Fun Fact: My profile picture is my portrait drawn with one entire line using the travelling salesman algorithm! 
