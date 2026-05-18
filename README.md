@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="github-image" width="150" height="150">
+  <img src="https://media1.tenor.com/m/m4DT6JjGu7sAAAAC/boogie-dance.gif" alt="github-image" width="150" height="150">
 </p>
 <h1 align="center">👋 Hi, I’m Nilu. Welcome to my GitHub page.</h1>
 
